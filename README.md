@@ -11,3 +11,6 @@ ex) In case a player selects up and "run away", the player moves to +1 for x ins
 
 ### Win or lose
 When a player loses to a monster 3 times in a row, the game is over and when a player reaches the goal point, the player wins!
+
+## Flowchart
+![flowchart-guessing-coordinate-game](https://github.com/user-attachments/assets/29e3de28-79ca-4217-b1d0-d48243174ccf)
